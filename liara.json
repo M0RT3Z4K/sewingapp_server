@@ -1,9 +1,14 @@
 {
   "app":"sewingapp"
   "port": 8000,
-  "args": [ "fastapi dev main.py" ],
+  "args": [ "python3 main.py" ],
   "python": {
     "mirror": true,
     "version": "3.12",
+  }
+  "build":{
+    "location":"iran"
+  }
+  "disks":[]
   }
 }
