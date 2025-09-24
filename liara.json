@@ -1,7 +1,6 @@
 {
   "app":"sewingapp"
   "port": 8000,
-  "args": [ "fastapi run main.py" ],
   "python": {
     "mirror": true,
     "version": "3.12",
