@@ -1,4 +1,5 @@
 {
+  "app":"sewingapp"
   "port": 8000,
   "args": [ "fastapi dev main.py" ],
   "python": {
