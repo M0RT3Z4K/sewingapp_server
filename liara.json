@@ -1,0 +1,8 @@
+{
+  "port": 8000,
+  "args": [ "python3 main.py" ],
+  "python": {
+    "mirror": true,
+    "version": "3.12",
+  }
+}
